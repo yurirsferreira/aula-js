@@ -1,7 +1,7 @@
 # Templates para desafio da bolsa
 
-1. Vencedor: Ganhará uma bolsa 100% para o próximo Curso Carreira Programador Completo I ou II.
-2. Vice-vencedor: Ganhará uma bolsa 50% para o próximo Curso Carreira Programador Completo I ou II. 
+1. Vencedor: Ganhará uma bolsa 100% para o próximo Curso Carreira Programador Completo.
+2. Vice-vencedor: Ganhará uma bolsa 50% para o próximo Curso Carreira Programador Completo. 
 
 
 ## Regras
@@ -10,7 +10,7 @@
 * O código deverá ficar no github do candidato de forma pública. 
 * Deverá ser usado textos em português com frases que façam sentido, simulando um site real.
 * Deverá fazer, no mínimo, 70 pontos no modo de avaliação abaixo. 
-* Entregar até: 30/11/2022
+* Entregar até: 01/09/2023
 
 ## Modo de Avaliação 
 * Dificuldade do template escolhido (1 a 10 pontos)
