@@ -1,6 +1,6 @@
 # Templates para desafio da bolsa
 
-1. Vencedor: Ganhará uma bolsa 100% para o próximo Curso Carreira Programador Completo.
+1. Vencedor: Ganhará uma bolsa 75% para o próximo Curso Carreira Programador Completo.
 2. Vice-vencedor: Ganhará uma bolsa 50% para o próximo Curso Carreira Programador Completo. 
 
 
